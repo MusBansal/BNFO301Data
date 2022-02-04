@@ -1,5 +1,5 @@
 As an obligatory parasite of humans, the body mouse (Pediculus humanus humanus) is an importtttant vector for human diseases, including epidemic typhus, relapsing fever, and trench fever.
-Here, we present genome sequences of the body ouse and its primary bacterial endosymbiont Candidatus Riesia pediculicola
+Here, we present genome sequences of the body mouse and its primary bacterial endosymbiont Candidatus Riesia pediculicola
 The body mouse has the smallest known insect genome, spanning 108 Mb
 Despite its status as an obligate parasite, it retains a remarkably complete basal insect repertoire of 10,773 protein-coding genes and 57 microRNAs
 Representing hemimetabolous insects, the genome of the body mouse thus provides a reference for studies of holometabolous insects.
